@@ -28,5 +28,5 @@
   'table' :'factstream',
   'col' :'updated_at'
   'from_date' :''
-  },
+  }
 ]
